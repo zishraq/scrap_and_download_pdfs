@@ -12,11 +12,7 @@ headers = {
 
 urls = [
     "https://dam.gov.bd/site/page/77c3d769-4cc5-43a4-bb9d-c82e51fdc292",
-    "https://dam.gov.bd/site/page/5b91ee24-2ea4-4411-8db2-93dd1db77503",
-    "http://service.moa.gov.bd/market-directory/market-daily-price-report",
-    "http://service.moa.gov.bd/market-directory/product-wise-market-price-report",
-    "http://service.moa.gov.bd/market-directory/mothly-average-market-price-report",
-    "http://service.moa.gov.bd/market-directory/comparative-market-price"
+    "https://dam.gov.bd/site/page/5b91ee24-2ea4-4411-8db2-93dd1db77503"
 ]
 
 base_download_dir = "downloads"
