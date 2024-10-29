@@ -1,0 +1,54 @@
+downloads
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# PyCharm project files
+.idea/
+
+# Byte-compiled and log files
+*.log
+*.sqlite3
+*.db
+
+# Cache files
+.cache/
+*.cache
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Test and coverage results
+.pytest_cache/
+htmlcov/
+coverage.xml
+*.cover
+*.coverage
+*.hypothesis/
+.tox/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Pipfile and other dependency management files
+Pipfile.lock
+
+# Any specific secret or config files
+.env
